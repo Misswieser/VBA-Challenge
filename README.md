@@ -1,10 +1,8 @@
-# VBA-Challenge
-
-## Stock Market Data Analysis with VBA
+# Stock Market Data Analysis with VBA
 
 This project involves analyzing stock market data using VBA scripting in Excel. The VBA script loops through multiple worksheets, calculates various metrics, and identifies stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
 
-### Dataset
+## Dataset
 
 The analysis is performed on the following:
 
@@ -16,11 +14,11 @@ Worksheets: 2018, 2019, and 2020.
 
 For each worksheet contains stock data for a specific year, with columns for the ticker symbol, volume of stock, open price, and close price.
 
-# Analysis Results
+## Analysis Results
 
 The VBA script provides the following analysis results:
 
-* Alphabetical Testing
+### Alphabetical Testing
 
 Worksheet A:
   * Greatest % Increase: Ticker - AIC, Percentage Increase - 4.268886044
@@ -52,7 +50,7 @@ Worksheet F:
   * Greatest % Decrease: Ticker - CUO, Percentage Decrease - -0.950917627
   * Greatest Total Volume: Ticker - DJF, Total Volume - 1.88666E+12
 
-* Multiple year stock data
+### Multiple year stock data
 
 Year 2018
   * Greatest % Increase: Ticker - LVR, Percentage Increase - 57.26472995
@@ -69,7 +67,7 @@ Year 2020
   * Greatest % Decrease: Ticker - RKS, Percentage Decrease - -0.997184943
   * Greatest Total Volume: Ticker - ZQ, Total Volume - 4.372719580069
 
-# Usage
+## Usage
 
 1. Open the Excel file provided, "alphabetical_testing.xlsx".
 2. Run the VBA script by following these steps:
@@ -81,34 +79,34 @@ Year 2020
 
 # Requirements
 
-# Retrieval of Data 
+## Retrieval of Data 
 * The script loops through one year of stock data and reads/ stores all of the following values from each row:
   * ticker symbol 
   * volume of stock 
   * open price 
   * close price 
 
-# Column Creation 
+## Column Creation 
 * On the same worksheet as the raw data, or on a new worksheet all columns were correctly created for:
   * ticker symbol
   * total stock volume 
   * yearly change ($) 
   * percent change 
 
-# Conditional Formatting 
+## Conditional Formatting 
 * Conditional formatting is applied correctly and appropriately to the yearly change column 
 * Conditional formatting is applied correctly and appropriately to the percent change column
 
-# Calculated Values 
+## Calculated Values 
 * All three of the following values are calculated correctly and displayed in the output:
   * Greatest % Increase 
   * Greatest % Decrease 
   * Greatest Total Volume
  
-# Looping Across Worksheet 
+## Looping Across Worksheet 
 * The VBA script can run on all sheets successfully.
 
-# GitHub/GitLab Submission 
+## GitHub/GitLab Submission 
 * All three of the following are uploaded to GitHub/GitLab:
   * Screenshots of the results 
   * Separate VBA script files 
