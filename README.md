@@ -1,10 +1,10 @@
 # VBA-Challenge
 
-# Stock Market Data Analysis with VBA
+## Stock Market Data Analysis with VBA
 
 This project involves analyzing stock market data using VBA scripting in Excel. The VBA script loops through multiple worksheets, calculates various metrics, and identifies stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume.
 
-# Dataset
+### Dataset
 
 The analysis is performed on the following:
 
@@ -20,7 +20,7 @@ For each worksheet contains stock data for a specific year, with columns for the
 
 The VBA script provides the following analysis results:
 
-** Alphabetical Testing
+* Alphabetical Testing
 
 Worksheet A:
   * Greatest % Increase: Ticker - AIC, Percentage Increase - 4.268886044
@@ -52,7 +52,7 @@ Worksheet F:
   * Greatest % Decrease: Ticker - CUO, Percentage Decrease - -0.950917627
   * Greatest Total Volume: Ticker - DJF, Total Volume - 1.88666E+12
 
-** Multiple year stock data
+* Multiple year stock data
 
 Year 2018
   * Greatest % Increase: Ticker - LVR, Percentage Increase - 57.26472995
