@@ -58,9 +58,9 @@ Year 2018
   * Greatest Total Volume: Ticker - QKI, Total Volume - 1.689179168176
 
 Year 2019
-  *Greatest % Increase: Ticker - LVR, Percentage Increase - 57.26472995
-  *Greatest % Decrease: Ticker - LKJ, Percentage Decrease - -0.975200491
-  *Greatest Total Volume: Ticker - ZQ, Total Volume - 4.372719580069
+  * Greatest % Increase: Ticker - LVR, Percentage Increase - 57.26472995
+  * Greatest % Decrease: Ticker - LKJ, Percentage Decrease - -0.975200491
+  * Greatest Total Volume: Ticker - ZQ, Total Volume - 4.372719580069
 
 Year 2020
   * Greatest % Increase: Ticker - LVR, Percentage Increase - 59.1804419
