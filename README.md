@@ -21,51 +21,51 @@ The VBA script provides the following analysis results:
 ### Alphabetical Testing
 
 Worksheet A:
-  * Greatest % Increase: Ticker - AIC, Percentage Increase - 4.268886044
-  * Greatest % Decrease: Ticker - AEY, Percentage Decrease - -0.936406317
+  * Greatest % Increase: Ticker - AAR, Percentage Increase - 22.95%
+  * Greatest % Decrease: Ticker - AYO, Percentage Decrease - -52.67%
   * Greatest Total Volume: Ticker - ATS, Total Volume - 46673637787
 
 Worksheet B:
-  * Greatest % Increase: Ticker - BXK, Percentage Increase - 16.49637217
-  * Greatest % Decrease: Ticker - AEY, Percentage Decrease - -0.936406317
-  * Greatest Total Volume: Ticker - BDNG, Total Volume - 1.28132364932
+  * Greatest % Increase: Ticker - BLC, Percentage Increase - 42.41%
+  * Greatest % Decrease: Ticker - AYO, Percentage Decrease - -52.67%
+  * Greatest Total Volume: Ticker - BDNG, Total Volume - 128132364932
 
 Worksheet C:
-  * Greatest % Increase: Ticker - CHKI, Percentage Increase - 21.2761417
-  * Greatest % Decrease: Ticker - CUO, Percentage Decrease - -0.950917627
-  * Greatest Total Volume: Ticker - CKB, Total Volume - 2.61608911298
+  * Greatest % Increase: Ticker - BLC, Percentage Increase - 42.41%
+  * Greatest % Decrease: Ticker - AYO, Percentage Decrease - -52.67%
+  * Greatest Total Volume: Ticker - CKB, Total Volume - 261608911298
 
 Worksheet D:
-  * Greatest % Increase: Ticker - CHKI, Percentage Increase - 21.2761417
-  * Greatest % Decrease: Ticker - CUO, Percentage Decrease - -0.950917627
-  * Greatest Total Volume: Ticker - DJF, Total Volume - 1.886657023522
+  * Greatest % Increase: Ticker - DLUW, Percentage Increase - 69.58%
+  * Greatest % Decrease: Ticker - AYO, Percentage Decrease - -52.67%
+  * Greatest Total Volume: Ticker - DJF, Total Volume - 1886657023522
 
 Worksheet E:
-  * Greatest % Increase: Ticker - CHKI, Percentage Increase - 21.2761417
-  * Greatest % Decrease: Ticker - CUO, Percentage Decrease - -0.950917627
-  * Greatest Total Volume: Ticker - DJF, Total Volume - 1.886657023522
+  * Greatest % Increase: Ticker - DLUW, Percentage Increase - 69.58%
+  * Greatest % Decrease: Ticker - EEA, Percentage Decrease - -63.17%
+  * Greatest Total Volume: Ticker - DJF, Total Volume - 1886657023522
 
 Worksheet F:
-  * Greatest % Increase: Ticker - CHKI, Percentage Increase - 21.2761417
-  * Greatest % Decrease: Ticker - CUO, Percentage Decrease - -0.950917627
-  * Greatest Total Volume: Ticker - DJF, Total Volume - 1.88666E+12
+  * Greatest % Increase: Ticker - FGH, Percentage Increase - 77.77%
+  * Greatest % Decrease: Ticker - EEA, Percentage Decrease - -63.17%
+  * Greatest Total Volume: Ticker - DJF, Total Volume - 1886657023522
 
 ### Multiple year stock data
 
 Year 2018
-  * Greatest % Increase: Ticker - LVR, Percentage Increase - 57.26472995
-  * Greatest % Decrease: Ticker - WSF, Percentage Decrease - -0.973498363
-  * Greatest Total Volume: Ticker - QKI, Total Volume - 1.689179168176
+  * Greatest % Increase: Ticker - THB, Percentage Increase - 141.42%
+  * Greatest % Decrease: Ticker - RKS, Percentage Decrease - -90.02%
+  * Greatest Total Volume: Ticker - QKI, Total Volume - 1689179168176
 
 Year 2019
-  * Greatest % Increase: Ticker - LVR, Percentage Increase - 57.26472995
-  * Greatest % Decrease: Ticker - LKJ, Percentage Decrease - -0.975200491
-  * Greatest Total Volume: Ticker - ZQ, Total Volume - 4.372719580069
+  * Greatest % Increase: Ticker - RYU, Percentage Increase - 190.03%
+  * Greatest % Decrease: Ticker - RKS, Percentage Decrease - -91.60%
+  * Greatest Total Volume: Ticker - ZQ, Total Volume - 4372719580069
 
 Year 2020
-  * Greatest % Increase: Ticker - LVR, Percentage Increase - 59.1804419
-  * Greatest % Decrease: Ticker - RKS, Percentage Decrease - -0.997184943
-  * Greatest Total Volume: Ticker - ZQ, Total Volume - 4.372719580069
+  * Greatest % Increase: Ticker - RYU, Percentage Increase - 190.03%
+  * Greatest % Decrease: Ticker - RKS, Percentage Decrease - -91.60%
+  * Greatest Total Volume: Ticker - ZQ, Total Volume - 4372719580069
 
 ## Usage
 
